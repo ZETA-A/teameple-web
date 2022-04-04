@@ -65,6 +65,11 @@ profileSection#kebab-profile{
     border-radius: 10px;
 }
 
+profileSection#bqu-profile {
+    background: linear-gradient(276.49deg, #FFEA28 0%, #FFB340 63.54%);
+    border-radius: 10px;
+}
+
 p#statusMessage {
     position: absolute;
     margin-top: 45px;
