@@ -32,8 +32,8 @@ div#circle {
 section#sefirot-section {
     margin-right: 81px;
     text-align: center;
-    background: linear-gradient(158deg, #FF4228 3.12%, #FFB800 98.08%);
-    background: linear-gradient(155.41deg, #44FF6D 5.73%, #0068FF 95.94%);
+    background: linear-gradient(158deg, #ff4228 3.12%, #ffb800 98.08%);
+    background: linear-gradient(155.41deg, #44ff6d 5.73%, #0068ff 95.94%);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 50px;
     transition: transform 0.2s;
@@ -49,7 +49,7 @@ section#sefirot-section:hover {
 
 section#pia-section {
     text-align: center;
-    background: linear-gradient(158deg, #FF2D10 3.12%, #FF9900 98.08%);
+    background: linear-gradient(158deg, #ff2d10 3.12%, #ff9900 98.08%);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 50px;
     transition: transform 0.2s;
@@ -65,7 +65,7 @@ section#pia-section:hover {
 
 p {
     margin: 0%;
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
 }
 
 p#botName {
@@ -75,7 +75,7 @@ p#botName {
 
 p#botDescription {
     font-size: 14px;
-    padding: 20px;
+    padding: 18px;
     font-weight: 500;
     margin-top: 40px;
 }
